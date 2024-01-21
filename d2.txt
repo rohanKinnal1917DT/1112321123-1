@@ -1,0 +1,46 @@
+http
+    https
+
+    https => https ?
+        >> SSL (Secure Socket Layer) Certification
+
+
+2. Domain: Unique Identifier 
+    google
+    google
+
+3. SubDomain: 
+    eg: google
+            >> gMeet
+            >> gFiles
+            >> gPhotos
+            >> gMaps
+            >> gPay
+            >> ...
+
+
+4. TLD (Top Level Domain):
+    >> .edu => education
+    >> .com => commercial
+    >> .in => Indian
+    >> .uk => United Kingdoms
+
+google.com
+google.uk
+
+
+Amazon.com (Original Website)
+Amazon.uk (Hacked Website)
+
+
+
+Bisleri (Official)
+Bysleri
+Bilseri
+Bislerii
+
+Nike
+Nyke
+
+Abbibas
+Adibad
